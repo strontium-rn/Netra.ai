@@ -21,7 +21,7 @@ Netra.ai is an advanced computer vision and artificial intelligence platform des
 
 ```bash
 # Clone the repository
-git clone (https://github.com/strontium-rn/Netra.ai.git)
+git clone https://github.com/strontium-rn/Netra.ai.git
 
 # Navigate to project directory
 cd netra-ai
