@@ -1,17 +1,34 @@
-# **Netra.ai**
+# Netra.ai 👁️
 
-Netra.ai is an AI-powered web application designed for real-time detection of common eye diseases such as cataracts, glaucoma, and diabetic retinopathy. Built using Flask and a convolutional neural network (CNN) model, Netra.ai leverages machine learning to provide quick and accurate diagnostic feedback through webcam input or uploaded eye images.
+## Overview
 
-## **Features**
-- Uses a CNN model trained on the ODIR-5K dataset.
-- Flask-based lightweight and user-friendly web application.
-- Focuses on accessibility and low-cost diagnostics for underserved communities.
+Netra.ai is an advanced computer vision and artificial intelligence platform designed to revolutionize visual intelligence across multiple domains. Our solution leverages cutting-edge machine learning algorithms to provide deep, actionable insights from visual data.
 
-## **Technologies Used**
-- **Programming Language**: Python 3.8+
-- **Web Framework**: Flask
-- **Deep Learning Framework**: TensorFlow
-- **Computer Vision**: OpenCV 4.5+
-- **Dataset**: ODIR-5K (Ocular Disease Intelligent Recognition)
+## 🚀 Features
+
+- **Multi-Domain Visual Analysis**
+  - Object detection and recognition
+  - Real-time image and video processing
+  - Advanced anomaly detection
+
+## 🛠 Tech Stack
+
+- **Backend**: Python, PyTorch, TensorFlow
+- **Frontend**: Flask
+- **Databases**: Kaggle
+
+### Quick Setup
+
+```bash
+# Clone the repository
+git clone (https://github.com/strontium-rn/Netra.ai.git)
+
+# Navigate to project directory
+cd netra-ai
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your updates or suggestions.
 
 
+Copyright (c) 2024 Netra.ai Contributors
