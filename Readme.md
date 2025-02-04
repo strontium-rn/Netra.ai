@@ -2,7 +2,7 @@
 
 ## Overview
 
-Netra.ai is an advanced computer vision and artificial intelligence platform designed to revolutionize visual intelligence across multiple domains. Our solution leverages cutting-edge machine learning algorithms to provide deep, actionable insights from visual data.
+Netra.ai is an AI-powered web application designed to detect multiple eye diseases from retinal images. Leveraging transfer learning and a multi-label classification model, the system can identify conditions such as diabetic retinopathy, glaucoma, cataracts, and age-related macular degeneration (AMD). The goal of this project is to provide an accessible, accurate, and scalable solution for early detection of eye diseases, particularly in underserved areas.
 
 ## 🚀 Features
 
